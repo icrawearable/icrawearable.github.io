@@ -142,7 +142,7 @@ If you have any questions, please contact us at: generalistrobots@gmail.com.
     </div>
     <div class="gridorg-item">
         <figure>
-        <img src="assets/img/organizers/honghai_liu.webp" width="200" />
+        <img src="assets/img/organizers/honghai_liu.png" width="200" />
         <figcaption><b><a href="https://www.port.ac.uk/about-us/structure-and-governance/our-people/our-staff/honghai-liu">Honghai Liu</a></b><br>University of Portsmouth</figcaption>
         </figure>
     </div>
