@@ -14,7 +14,7 @@ affil: University of Portsmouth
 affil_link: https://www.port.ac.uk/about-us/structure-and-governance/our-people/our-staff/honghai-liu
 
 # An image of the organizer (square aspect ratio works the best) (place in the `assets/img/organizers` directory)
-img: honghai_liu.webp
+img: honghai_liu.png
 
 # # Secondary affiliation
 # affil2: BuzzFizz Corp
