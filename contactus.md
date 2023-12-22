@@ -7,4 +7,4 @@ permalink: /contactus/
 Here's how you can contact us ...
 
 ## Previous Years
-- [ICRA 2024]()
+- [1st Workshop on Wearable Intelligence for Healthcare Robotics (WIHR): from Brain Minds to Body Movements - ICRA 2024]()
