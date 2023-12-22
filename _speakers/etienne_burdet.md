@@ -5,15 +5,15 @@ sequence_id: 4
 name: Etienne Burdet
 
 # Link to the speaker's webpage
-webpage: https://www.imperial.ac.uk/people/george.mylonas
+webpage: https://www.imperial.ac.uk/people/e.burdet
 
 # Primary affiliation of the speaker
 affil: Imperial College London
 # Link to the speaker's primary affiliation
-affil_link: https://www.imperial.ac.uk/people/george.mylonas
+affil_link: https://www.imperial.ac.uk/people/e.burdet
 
 # An image of the speaker (square aspect ratio works the best) (place in the `assets/img/speakers` directory)
-img: george_mylonas.jpg
+img: etienne_burdet.jpg
 
 # # (Optional) Secondary affiliation of the speaker
 # affil2: BuzzFizz Corp

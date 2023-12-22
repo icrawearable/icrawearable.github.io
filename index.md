@@ -90,8 +90,8 @@ If you have any questions, please contact us at: generalistrobots@gmail.com.
     </div>
     <div class="grid-item">
         <figure>
-        <img src="assets/img/speakers/george_mylonas.jpg" width="200" />
-        <figcaption><b><a href="https://www.imperial.ac.uk/people/george.mylonas">Etienne Burdet</a></b><br>Imperial College London</figcaption>
+        <img src="assets/img/speakers/etienne_burdet.jpg" width="200" />
+        <figcaption><b><a href="https://www.imperial.ac.uk/people/e.burdet">Etienne Burdet</a></b><br>Imperial College London</figcaption>
         </figure>
     </div>
     <div class="grid-item">
