@@ -13,8 +13,8 @@ affil: Meta Reality Lab
 affil_link: https://about.meta.com/realitylabs/
 
 # An image of the speaker (square aspect ratio works the best) (place in the `assets/img/speakers` directory)
-# img: zijian_wang.jpg
-img: jane.jpg
+img: zijian_wang.jpg
+# img: jane.jpg
 
 # # (Optional) Secondary affiliation of the speaker
 # affil2: BuzzFizz Corp
