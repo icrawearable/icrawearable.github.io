@@ -131,7 +131,7 @@ If you have any questions, please contact us at: generalistrobots@gmail.com.
     <div class="gridorg-item">
         <figure>
         <img src="assets/img/organizers/jianing_qiu.jpeg" width="200" />
-        <figcaption><b><a href="https://ieeexplore.ieee.org/author/37086922591">Jianing Qiu</a></b><br>Imperial College London</figcaption>
+        <figcaption><b><a href="https://orcid.org/0000-0003-4166-3428">Jianing Qiu</a></b><br>Imperial College London</figcaption>
         </figure>
     </div>
     <div class="gridorg-item">
