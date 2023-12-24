@@ -165,6 +165,7 @@ If you have any questions, please contact us at: generalistrobots@gmail.com.
 
 <div class="gridorg-item">
   <div><span>&#8226;</span><p><a href="https://jiaqixuac.github.io/">Jiaqi Xu</a> (CUHK)</p></div>
+  <div><span>&#8226;</span><p><a href="https://jiaqixuac.github.io/">Jiaqi Xu</a> (CUHK)</p></div>
 </div>
 
 ### Scientific Advisory Board
