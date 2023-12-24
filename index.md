@@ -160,3 +160,16 @@ If you have any questions, please contact us at: generalistrobots@gmail.com.
     </div>
 </div>
 
+### Program Committee
+&nbsp;
+
+<div class="gridorg-item">
+  <div><p>Jiaqi Xu (CUHK)</p></div>
+</div>
+
+### Scientific Advisory Board
+&nbsp;
+
+<div class="gridorg-item">
+  <div><p>Jiaqi Xu (CUHK)</p></div>
+</div>
