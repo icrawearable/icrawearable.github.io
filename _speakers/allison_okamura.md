@@ -8,7 +8,7 @@ name: Allison Okamura
 webpage: https://charm.stanford.edu/Main/AllisonOkamura/
 
 # Primary affiliation of the speaker
-affil: Stanford
+affil: Stanford University
 # Link to the speaker's primary affiliation
 affil_link: https://charm.stanford.edu/Main/AllisonOkamura/
 
