@@ -165,12 +165,12 @@ If you have any questions, please contact us at: generalistrobots@gmail.com.
 
 <div class='grid'>
     <div class="gridcom-item">
-        <div><p><span>&#8226;&#20;</span><a href="https://jiaqixuac.github.io/">Jiaqi Xu</a> (CUHK)</p></div>
-        <div><p><span>&#8226;&#20;</span><a href="https://scholar.google.com/citations?user=LXwEufAAAAAJ&hl=en&oi=ao">Chuheng Wei</a> (UC Riverside)</p></div>
+        <div><p><span>&#8226;&nbsp;</span><a href="https://jiaqixuac.github.io/">Jiaqi Xu</a> (CUHK)</p></div>
+        <div><p><span>&#8226;&nbsp;</span><a href="https://scholar.google.com/citations?user=LXwEufAAAAAJ&hl=en&oi=ao">Chuheng Wei</a> (UC Riverside)</p></div>
     </div>
     <div class="gridcom-item">
-        <div><p><span>&#8226;&#20;</span><a href="https://jiaqixuac.github.io/">Jiaqi Xu</a> (CUHK)</p></div>
-        <div><p><span>&#8226;&#20;</span><a href="https://jiaqixuac.github.io/">Jiaqi Xu</a> (CUHK)</p></div>
+        <div><p><span>&#8226;&nbsp;</span><a href="https://jiaqixuac.github.io/">Jiaqi Xu</a> (CUHK)</p></div>
+        <div><p><span>&#8226;&nbsp;</span><a href="https://jiaqixuac.github.io/">Jiaqi Xu</a> (CUHK)</p></div>
     </div>
 </div>
 &nbsp;
@@ -179,7 +179,7 @@ If you have any questions, please contact us at: generalistrobots@gmail.com.
 &nbsp;
 <div class="grid">
     <div class="gridcom-item">
-        <div><p><span>&#8226;&#20;</span>Jiaqi Xu (CUHK)</p></div>
+        <div><p><span>&#8226;&nbsp;</span>Jiaqi Xu (CUHK)</p></div>
     </div>
 </div>
 &nbsp;
