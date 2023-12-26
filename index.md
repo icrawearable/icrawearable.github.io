@@ -11,7 +11,8 @@ layout: home
 </font></p>
 <p style="text-align: center;"><font size="5">May 13th to 17th, 2024</font></p>
 <p style="text-align: center;"><font size="5">Location: Sequoia 1</font></p>
-<p style="text-align: center;"><font size="4">Recording available at: <a href="">Youtube</a>, <a href="https://discord.gg/yqjTtBmUJC">Discord</a></font></p>
+<p style="text-align: center;"><font size="4"><a href="">Youtube</a>, <a href="https://discord.gg/yqjTtBmUJC">Discord</a></font></p>
+<p style="text-align: center;"><font size="4">Recording available at: <a href="">Youtube</a></font></p>
 
 The integration of artificial intelligence, wearable technologies, and robotics signifies a paradigm shift in healthcare, ushering in an era of personalized and pervasive digital health solutions. This pivotal intersection seamlessly melds real-time data acquisition, cutting-edge analytics, and precision-driven robotic interventions, together reshaping the very fabric of patient care. A spectrum of sensing modalities, from intricate brain-machine interfaces to dynamic muscle-machine interactions and advanced vision-based signals, offers a holistic understanding of the physiological and biomechanical intricacies inherent to the human body. These profound insights not only demystify cognitive processes and potential neurological anomalies but also set the stage for proactive interventions, particularly in the realms of rehabilitation/assistive, social, as well as surgical robotics. This workshop endeavors to dissect the multifaceted nature of this symbiotic integration, illuminating challenges, innovations, and the vast potential of a healthcare domain enriched by wearables and robotics. Our objective is to bridge the chasm between AI insights, wearable intelligence, and robotic precision, envisioning a healthcare future that’s seamlessly attuned to individual needs.
 
@@ -197,11 +198,11 @@ If you have any questions, please contact us at: wearable-intelligence@googlegro
         <div><p><span>&#8226;&nbsp;</span><a href="https://scholar.google.com/citations?user=LXwEufAAAAAJ&hl=en&oi=ao">Chuheng Wei</a> (UC Riverside)</p></div>
     </div>
     <div class="gridcom-item">
-        <div><p><span>&#8226;&nbsp;</span><a href="https://jiaqixuac.github.io/">Frank P. -W. Lo</a> (Imperial College London)</p></div>
-        <div><p><span>&#8226;&nbsp;</span><a href="https://jiaqixuac.github.io/">Yingnan Sun</a> (OPPO)</p></div>
+        <div><p><span>&#8226;&nbsp;</span><a href="https://scholar.google.co.uk/citations?user=lLHEIC4AAAAJ&hl=en">Frank P. -W. Lo</a> (Imperial)</p></div>
+        <div><p><span>&#8226;&nbsp;</span><a href="https://scholar.google.co.uk/citations?user=sLRZCxMAAAAJ&hl=en">Yingnan Sun</a> (OPPO)</p></div>
     </div>
     <div class="gridcom-item">
-        <div><p><span>&#8226;&nbsp;</span><a href="https://jiaqixuac.github.io/">Frank P. -W. Lo</a> (Imperial College London)</p></div>
+        <div><p><span>&#8226;&nbsp;</span><a href="https://jiaqixuac.github.io/">Frank P. -W. Lo</a> (Imperial)</p></div>
         <div><p><span>&#8226;&nbsp;</span><a href="https://jiaqixuac.github.io/">Yingnan Sun</a> (OPPO)</p></div>
     </div>
 </div>
