@@ -176,6 +176,18 @@ If you have any questions, please contact us at: wearable-intelligence@googlegro
     </div>
 </div>
 
+### Scientific Advisory Board
+&nbsp;
+<div class="grid">
+    <div class="gridorg-item">
+        <figure>
+        <img src="assets/img/advisory_board/lei_xing.jpg" width="200"/>
+        <figcaption><b><a href="https://profiles.stanford.edu/lei-xing">Lei Xing</a></b><br>Stanford University</figcaption>
+        </figure>
+    </div>
+</div>
+&nbsp;
+
 ### Program Committee
 &nbsp;
 
@@ -189,13 +201,6 @@ If you have any questions, please contact us at: wearable-intelligence@googlegro
         <div><p><span>&#8226;&nbsp;</span><a href="https://jiaqixuac.github.io/">Jiaqi Xu</a> (CUHK)</p></div>
     </div>
 </div>
-&nbsp;
 
-### Scientific Advisory Board
-&nbsp;
-<div class="grid">
-    <div class="gridcom-item">
-        <div><p><span>&#8226;&nbsp;</span>Jiaqi Xu (CUHK)</p></div>
-    </div>
-</div>
-&nbsp;
+
+
