@@ -11,7 +11,7 @@ layout: home
 </font></p>
 <p style="text-align: center;"><font size="5">May 13th to 17th, 2024</font></p>
 <p style="text-align: center;"><font size="5">Location: Sequoia 1</font></p>
-<p style="text-align: center;"><font size="4">Recording available at: <a href="">Youtube</a></font> <a href="https://discord.gg/yqjTtBmUJC">Discord</a></font></p>
+<p style="text-align: center;"><font size="4">Recording available at: <a href="">Youtube</a>, <a href="https://discord.gg/yqjTtBmUJC">Discord</a></font></p>
 
 The integration of artificial intelligence, wearable technologies, and robotics signifies a paradigm shift in healthcare, ushering in an era of personalized and pervasive digital health solutions. This pivotal intersection seamlessly melds real-time data acquisition, cutting-edge analytics, and precision-driven robotic interventions, together reshaping the very fabric of patient care. A spectrum of sensing modalities, from intricate brain-machine interfaces to dynamic muscle-machine interactions and advanced vision-based signals, offers a holistic understanding of the physiological and biomechanical intricacies inherent to the human body. These profound insights not only demystify cognitive processes and potential neurological anomalies but also set the stage for proactive interventions, particularly in the realms of rehabilitation/assistive, social, as well as surgical robotics. This workshop endeavors to dissect the multifaceted nature of this symbiotic integration, illuminating challenges, innovations, and the vast potential of a healthcare domain enriched by wearables and robotics. Our objective is to bridge the chasm between AI insights, wearable intelligence, and robotic precision, envisioning a healthcare future that’s seamlessly attuned to individual needs.
 
@@ -72,7 +72,7 @@ We invite submissions including but not limited to the following topics:
 
 - **Workshop date**: 2024/05/14
 
-- **Submission portal**: [ICRA 2024 Workshop WIHR (OpenReview)](https://openreview.net/group?id=robot-learning.org/CoRL/2023/Workshop/TGR).
+- **Submission portal**: [ICRA 2024 Workshop WIHR (OpenReview)](https://openreview.net/group?id=IEEE.org/2024/ICRA/Workshop/WIHR).
 
 We expect submissions with 2 - 8 pages for the main content, with no limit on references/appendices. Submissions are suggested to use the [IEEE template](https://ras.papercept.net/conferences/support/support.php). All papers will be peer-reviewed in a double-blind manner. We welcome both unpublished original contributions and recently published relevant works. Accepted papers will be presented in the form of posters, with several papers being selected for spotlight sessions. The <b><font color=red>Best Paper Award</font></b> and <b><font color=red>Best Poster Award</font></b> will be presented to honor exceptional contributions among the accepted submissions.
 
