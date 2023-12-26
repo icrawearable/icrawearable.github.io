@@ -197,8 +197,12 @@ If you have any questions, please contact us at: wearable-intelligence@googlegro
         <div><p><span>&#8226;&nbsp;</span><a href="https://scholar.google.com/citations?user=LXwEufAAAAAJ&hl=en&oi=ao">Chuheng Wei</a> (UC Riverside)</p></div>
     </div>
     <div class="gridcom-item">
-        <div><p><span>&#8226;&nbsp;</span><a href="https://jiaqixuac.github.io/">Jiaqi Xu</a> (CUHK)</p></div>
-        <div><p><span>&#8226;&nbsp;</span><a href="https://jiaqixuac.github.io/">Jiaqi Xu</a> (CUHK)</p></div>
+        <div><p><span>&#8226;&nbsp;</span><a href="https://jiaqixuac.github.io/">Frank P. -W. Lo</a> (Imperial College London)</p></div>
+        <div><p><span>&#8226;&nbsp;</span><a href="https://jiaqixuac.github.io/">Yingnan Sun</a> (OPPO)</p></div>
+    </div>
+    <div class="gridcom-item">
+        <div><p><span>&#8226;&nbsp;</span><a href="https://jiaqixuac.github.io/">Frank P. -W. Lo</a> (Imperial College London)</p></div>
+        <div><p><span>&#8226;&nbsp;</span><a href="https://jiaqixuac.github.io/">Yingnan Sun</a> (OPPO)</p></div>
     </div>
 </div>
 
