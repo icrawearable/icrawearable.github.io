@@ -202,8 +202,8 @@ If you have any questions, please contact us at: wearable-intelligence@googlegro
         <div><p><span>&#8226;&nbsp;</span><a href="https://scholar.google.co.uk/citations?user=sLRZCxMAAAAJ&hl=en">Yingnan Sun</a> (OPPO)</p></div>
     </div>
     <div class="gridcom-item">
-        <div><p><span>&#8226;&nbsp;</span><a href="https://jiaqixuac.github.io/">Frank P. -W. Lo</a> (Imperial)</p></div>
-        <div><p><span>&#8226;&nbsp;</span><a href="https://jiaqixuac.github.io/">Yingnan Sun</a> (OPPO)</p></div>
+        <div><p><span>&#8226;&nbsp;</span><a href="https://zipingxu.github.io/">Ziping Xu</a> (Harvard)</p></div>
+        <div><p><span>&#8226;&nbsp;</span><a href="https://jiaqixuac.github.io/"></a> (OPPO)</p></div>
     </div>
 </div>
 
