@@ -9,7 +9,7 @@ permalink: /organizers/
 <div class="grid">
     <div class="gridorg-item">
         <figure>
-        <img src="assets/img/advisory_board/lei_xing.jpg" width="200"/>
+        <img src="/assets/img/advisory_board/lei_xing.jpg" width="200"/>
         <figcaption><b><a href="https://profiles.stanford.edu/lei-xing">Lei Xing</a></b><br>Stanford University</figcaption>
         </figure>
     </div>
