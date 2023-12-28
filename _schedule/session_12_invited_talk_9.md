@@ -3,10 +3,10 @@
 sequence_id: 12
 
 # Speaker name
-speaker: Abhinav Gupta
+speaker: #Abhinav Gupta
 
 # Title of the event
-title: "Learning from Observational Data (TBU)"
+title: #"Learning from Observational Data (TBU)"
 
 # Time of the event
 time: 14:30 - 15:00

@@ -3,10 +3,10 @@
 sequence_id: 8
 
 # Speaker name
-speaker: Shuran Song & Huy Ha
+speaker: #Shuran Song & Huy Ha
 
 # Title of the event
-title: "Robot Skill Acquisition: Three Workflows and Path Forward"
+title: #"Robot Skill Acquisition: Three Workflows and Path Forward"
 
 # Time of the event
 time: 12:00 - 12:30
