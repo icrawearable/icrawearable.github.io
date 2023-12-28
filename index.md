@@ -186,6 +186,12 @@ If you have any questions, please contact us at: wearable-intelligence@googlegro
         <figcaption><b><a href="https://profiles.stanford.edu/lei-xing">Lei Xing</a></b><br>Stanford University</figcaption>
         </figure>
     </div>
+    <div class="gridorg-item">
+        <figure>
+        <img src="assets/img/advisory_board/lei_xing.jpg" width="200"/>
+        <figcaption><b><a href="https://www.eas.caltech.edu/people/weigao">Wei Gao</a></b><br>Caltech</figcaption>
+        </figure>
+    </div>
 </div>
 &nbsp;
 
