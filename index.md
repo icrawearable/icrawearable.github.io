@@ -192,6 +192,12 @@ If you have any questions, please contact us at: wearable-intelligence@googlegro
         <figcaption><b><a href="https://www.eas.caltech.edu/people/weigao">Wei Gao</a></b><br>Caltech</figcaption>
         </figure>
     </div>
+    <div class="gridorg-item">
+        <figure>
+        <img src="assets/img/advisory_board/john_rogers.jpg" width="200"/>
+        <figcaption><b><a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/rogers-john.html">John A. Rogers</a></b><br>Northwestern University</figcaption>
+        </figure>
+    </div>
 </div>
 &nbsp;
 
