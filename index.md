@@ -63,7 +63,7 @@ We invite submissions including but not limited to the following topics:
 
 
 **Important Dates**
-- **Paper submission open**: 2024/01/15
+- **Paper submission open**: 2024/01/01
 
 - **Paper submission deadline**: 2024/03/25 PST
 
