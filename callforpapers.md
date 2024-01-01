@@ -14,7 +14,7 @@ We aim to discuss questions including, but not limited to:
 - Efficient Learning: How can we optimize the process of collecting and learning from real-world data in healthcare robotics?
 - Adaptability: How can the design of healthcare robotics be evolved to offer greater personalization and adaptability?
 - Interdisciplinary Integration: How can cognitive science, neuroscience, and genetics be integrated to advance healthcare robotics?
-- LLMs/Foundation Models: What role can large language models or foundation models play in supporting healthcare robotics?
+- Foundation Models: What role can foundation models play in supporting healthcare robotics?
 - Human-Robot Interaction: How can human-robot interaction be enhanced to improve patient comfort and trust in healthcare settings?
 - Applications: How can AI and machine learning be leveraged in robotics for predictive healthcare and early diagnosis?
 - Ethics, Privacy, and Safety: How can ethical considerations, patient privacy, and safety be prioritized in the development and implementation of healthcare robotics?
