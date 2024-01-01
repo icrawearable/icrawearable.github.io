@@ -25,6 +25,12 @@ permalink: /organizers/
         <figcaption><b><a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/rogers-john.html">John A. Rogers</a></b><br>Northwestern University</figcaption>
         </figure>
     </div>
+        <div class="grid-item">
+        <figure>
+        <img src="/assets/img/speakers/brokoslaw_laschowski.png" width="200" />
+        <figcaption><b><a href="https://kite-uhn.com/scientist/brokoslaw-laschowski">Brokoslaw Laschowski</a></b><br>Toronto Rehabilitation Institute & University of Toronto</figcaption>
+        </figure>
+    </div>
 </div>
 &nbsp;
 
