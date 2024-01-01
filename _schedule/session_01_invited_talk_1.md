@@ -3,10 +3,10 @@
 sequence_id: 1
 
 # Speaker name
-speaker: #He Wang
+speaker: Brokoslaw Laschowski
 
 # Title of the event
-title: #"Learning Generalizable Dexterous Grasping Policy from Point Clouds"
+title: "Robotic Leg Control: From Artificial Intelligence to Brain-Machine Interfaces"
 
 # Time of the event
 time: 08:40 - 09:10
