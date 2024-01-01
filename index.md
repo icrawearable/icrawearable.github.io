@@ -214,6 +214,7 @@ If you have any questions, please contact us at: wearable-intelligence@googlegro
     <div class="gridcom-item">
         <div><p><span>&#8226;&nbsp;</span><a href="https://zipingxu.github.io/">Ziping Xu</a> (Harvard)</p></div>
         <div><p><span>&#8226;&nbsp;</span><a href="https://treelli.github.io/">Lin Li</a> (KCL)</p></div>
+        <div><p><span>&#8226;&nbsp;</span><a href="https://www.gla.ac.uk/schools/computing/staff/fanideligianni/">Fani Deligianni</a> (UofG)</p></div>
     </div>
     <div class="gridcom-item">
         <div><p><span>&#8226;&nbsp;</span><a href="https://jiaqixuac.github.io/">Jiaqi Xu</a> (CUHK)</p></div>
