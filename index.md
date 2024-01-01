@@ -67,7 +67,7 @@ We invite submissions including but not limited to the following topics:
 
 - **Paper submission deadline**: 2024/03/25 PST
 
-- **Notification of acceptance**: 2024/04/25
+- **Notification of acceptance**: 2024/03/31
 
 - **Camera ready**: 2024/05/03
 
@@ -115,6 +115,12 @@ If you have any questions, please contact us at: wearable-intelligence@googlegro
         <figure>
         <img src="assets/img/speakers/allison_okamura.jpg" width="200" />
         <figcaption><b><a href="https://charm.stanford.edu/Main/AllisonOkamura/">Allison Okamura</a></b><br>Stanford University</figcaption>
+        </figure>
+    </div>
+    <div class="grid-item">
+        <figure>
+        <img src="assets/img/speakers/brokoslaw_laschowski.png" width="200" />
+        <figcaption><b><a href="https://kite-uhn.com/scientist/brokoslaw-laschowski">Brokoslaw Laschowski</a></b><br>Toronto Rehabilitation Institute & University of Toronto</figcaption>
         </figure>
     </div>
 </div>
