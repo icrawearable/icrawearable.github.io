@@ -6,12 +6,12 @@ sequence_id: 4
 name: Jianing Qiu
 
 # Link to the organizer's webpage
-webpage: https://orcid.org/0000-0003-4166-3428
+webpage: https://scholar.google.com/citations?user=ETgWwQoAAAAJ&hl=zh-TW&oi=ao
 
 # Primary affiliation
 affil: Imperial College London
 # Link to the primary affiliation
-affil_link: https://orcid.org/0000-0003-4166-3428
+affil_link: https://scholar.google.com/citations?user=ETgWwQoAAAAJ&hl=zh-TW&oi=ao
 
 # An image of the organizer (square aspect ratio works the best) (place in the `assets/img/organizers` directory)
 img: jianing_qiu.jpeg
