@@ -219,6 +219,7 @@ If you have any questions, please contact us at: wearable-intelligence@googlegro
     <div class="gridcom-item">
         <div><p><span>&#8226;&nbsp;</span><a href="https://jiaqixuac.github.io/">Jiaqi Xu</a> (CUHK)</p></div>
         <div><p><span>&#8226;&nbsp;</span><a href="https://scholar.google.com/citations?user=LXwEufAAAAAJ&hl=en&oi=ao">Chuheng Wei</a> (UC Riverside)</p></div>
+        <div><p><span>&#8226;&nbsp;</span><a href="https://uk.linkedin.com/in/nlkaur">Narinder Kaur</a> (UofG)</p></div>
     </div>
     <div class="gridcom-item">
         <div><p><span>&#8226;&nbsp;</span><a href="https://scholar.google.co.uk/citations?user=lLHEIC4AAAAJ&hl=en">Frank P. -W. Lo</a> (Imperial)</p></div>
