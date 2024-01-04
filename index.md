@@ -204,6 +204,18 @@ If you have any questions, please contact us at: wearable-intelligence@googlegro
         <figcaption><b><a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/rogers-john.html">John A. Rogers</a></b><br>Northwestern University</figcaption>
         </figure>
     </div>
+    <div class="gridorg-item">
+        <figure>
+        <img src="assets/img/advisory_board/phengann_heng.png" width="200"/>
+        <figcaption><b><a href="https://www.cse.cuhk.edu.hk/~pheng/">Pheng Ann Heng</a></b><br>CUHK</figcaption>
+        </figure>
+    </div>
+    <div class="gridorg-item">
+        <figure>
+        <img src="assets/img/advisory_board/liangjun_zhang.jpg" width="200"/>
+        <figcaption><b><a href="https://www.cs.unc.edu/~zlj/">Liang-Jun Zhang</a></b><br>Northwestern University</figcaption>
+        </figure>
+    </div>
 </div>
 &nbsp;
 
