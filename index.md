@@ -160,7 +160,7 @@ If you have any questions, please contact us at: wearable-intelligence@googlegro
     <div class="gridorg-item">
         <figure>
         <img src="assets/img/organizers/shuo_jiang.jpeg" width="200" />
-        <figcaption><b><a href="https://ieeexplore.ieee.org/author/37086100516">Shuo Jiang</a></b><br>Tongji University</figcaption>
+        <figcaption><b><a href="https://scholar.google.com/citations?user=zcpunN8AAAAJ&hl=en">Shuo Jiang</a></b><br>Tongji University</figcaption>
         </figure>
     </div>
     <div class="gridorg-item">
