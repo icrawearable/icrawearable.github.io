@@ -216,6 +216,12 @@ If you have any questions, please contact us at: wearable-intelligence@googlegro
         <figcaption><b><a href="https://www.cs.unc.edu/~zlj/">Liang-Jun Zhang</a></b><br>Baidu</figcaption>
         </figure>
     </div>
+    <div class="gridorg-item">
+        <figure>
+        <img src="assets/img/advisory_board/peter_shull.jpg" width="200"/>
+        <figcaption><b><a href="https://www.wearablesystems.org/">Peter Shull</a></b><br>Shanghai Jiao Tong University</figcaption>
+        </figure>
+    </div>
 </div>
 &nbsp;
 
