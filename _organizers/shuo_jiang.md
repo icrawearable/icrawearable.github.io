@@ -6,12 +6,12 @@ sequence_id: 5
 name: Shuo Jiang
 
 # Link to the organizer's webpage
-webpage: https://ieeexplore.ieee.org/author/37086100516
+webpage: https://scholar.google.com/citations?user=zcpunN8AAAAJ&hl=en
 
 # Primary affiliation
 affil: Tongji University
 # Link to the primary affiliation
-affil_link: https://ieeexplore.ieee.org/author/37086100516
+affil_link: https://scholar.google.com/citations?user=zcpunN8AAAAJ&hl=en
 
 # An image of the organizer (square aspect ratio works the best) (place in the `assets/img/organizers` directory)
 img: shuo_jiang.jpeg
