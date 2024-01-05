@@ -14,7 +14,7 @@ affil: CUHK
 affil_link: http://www.bme.cuhk.edu.hk/yuan/index.html
 
 # An image of the organizer (square aspect ratio works the best) (place in the `assets/img/organizers` directory)
-img: wu_yuan.jpg
+img: wu_yuan.png
 
 # # Secondary affiliation
 # affil2: BuzzFizz Corp
