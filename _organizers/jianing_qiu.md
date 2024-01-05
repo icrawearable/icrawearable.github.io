@@ -9,7 +9,7 @@ name: Jianing Qiu
 webpage: https://scholar.google.com/citations?user=ETgWwQoAAAAJ&hl=en&oi=ao
 
 # Primary affiliation
-affil: Imperial College London
+affil: CUHK
 # Link to the primary affiliation
 affil_link: https://scholar.google.com/citations?user=ETgWwQoAAAAJ&hl=en&oi=ao
 
