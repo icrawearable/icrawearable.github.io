@@ -165,7 +165,7 @@ If you have any questions, please contact us at: wearable-intelligence@googlegro
     </div>
     <div class="gridorg-item">
         <figure>
-        <img src="assets/img/organizers/wu_yuan.jpeg" width="200" />
+        <img src="assets/img/organizers/wu_yuan.jpg" width="200" />
         <figcaption><b><a href="https://scholar.google.com.sg/citations?user=3A_h6-sAAAAJ&hl=en">Wu Yuan</a></b><br>CUHK</figcaption>
         </figure>
     </div>
