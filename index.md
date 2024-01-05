@@ -228,6 +228,12 @@ If you have any questions, please contact us at: wearable-intelligence@googlegro
         <figcaption><b><a href="https://www.wearablesystems.org/">Peter Shull</a></b><br>Shanghai Jiao Tong University</figcaption>
         </figure>
     </div>
+    <div class="gridorg-item">
+        <figure>
+        <img src="assets/img/advisory_board/eric_yeatman.png" width="200"/>
+        <figcaption><b><a href="https://www.imperial.ac.uk/people/e.yeatman">Eric Yeatman</a></b><br>Imperial College London</figcaption>
+        </figure>
+    </div>
 </div>
 &nbsp;
 
