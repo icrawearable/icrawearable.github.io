@@ -154,13 +154,19 @@ If you have any questions, please contact us at: wearable-intelligence@googlegro
     <div class="gridorg-item">
         <figure>
         <img src="assets/img/organizers/jianing_qiu.jpeg" width="200" />
-        <figcaption><b><a href="https://scholar.google.com/citations?user=ETgWwQoAAAAJ&hl=en&oi=ao">Jianing Qiu</a></b><br>Imperial College London</figcaption>
+        <figcaption><b><a href="https://scholar.google.com/citations?user=ETgWwQoAAAAJ&hl=en&oi=ao">Jianing Qiu</a></b><br>CUHK</figcaption>
         </figure>
     </div>
     <div class="gridorg-item">
         <figure>
         <img src="assets/img/organizers/shuo_jiang.jpeg" width="200" />
         <figcaption><b><a href="https://scholar.google.com/citations?user=zcpunN8AAAAJ&hl=en">Shuo Jiang</a></b><br>Tongji University</figcaption>
+        </figure>
+    </div>
+    <div class="gridorg-item">
+        <figure>
+        <img src="assets/img/organizers/wu_yuan.jpeg" width="200" />
+        <figcaption><b><a href="https://scholar.google.com.sg/citations?user=3A_h6-sAAAAJ&hl=en">Wu Yuan</a></b><br>CUHK</figcaption>
         </figure>
     </div>
     <div class="gridorg-item">
