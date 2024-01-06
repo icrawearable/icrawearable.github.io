@@ -234,6 +234,12 @@ If you have any questions, please contact us at: wearable-intelligence@googlegro
         <figcaption><b><a href="https://www.imperial.ac.uk/people/e.yeatman">Eric Yeatman</a></b><br>Imperial College London</figcaption>
         </figure>
     </div>
+    <div class="gridorg-item">
+        <figure>
+        <img src="assets/img/advisory_board/raymond_tong.png" width="200"/>
+        <figcaption><b><a href="http://www.bme.cuhk.edu.hk/kytong/">Raymond Tong</a></b><br>CUHK</figcaption>
+        </figure>
+    </div>
 </div>
 &nbsp;
 
