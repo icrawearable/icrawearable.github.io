@@ -43,13 +43,13 @@ We aim to discuss questions including, but not limited to:
 
 We invite submissions including but not limited to the following topics:
 
-- Cutting-edge sensory technologies in healthcare robotics.
+- Cutting-edge wearable sensory technologies for healthcare robotics.
 - Principles of human-centered design in healthcare wearable robotics.
 - Integration of the Internet of Things (IoT) in healthcare wearable robotics.
-- Fusion of multi-modal sensing technologies in healthcare robotics.
+- Fusion of multi-modal sensing technologies for wearable intelligence and healthcare robots.
 - AI-based analysis of human movement.
 - AI-based assessment of cognitive states.
-- AI-based recognition of movement intentions.
+- AI-based prediction of human intentions.
 - AI-driven approaches in human-robot interaction.
 - Personalized adaptive strategies for robotic interventions and assistance.
 - Tailored adaptive strategies for rehabilitation training.
@@ -57,8 +57,12 @@ We invite submissions including but not limited to the following topics:
 - Data-driven learning approaches to address variations in individuals or subpopulations.
 - Adaptive control policies for individual or subpopulation variances.
 - Incorporating cognitive science, neuroscience, and genetics to enhance healthcare robotics.
-- Ethics, privacy, and safety of healthcare robotics
-- Future and challenges of wearable intelligence
+- Ethics, privacy, and safety of wearable intelligence and healthcare robotics
+- Emerging AR/VR/MR technologies for wearable intelligence and healthcare robotics
+- LLM-based Agents for wearable intelligence and healthcare robotics
+- Novel datasets and benchmarks for advancing wearable intelligence and healthcare robotics
+- Future and challenges of wearable intelligence for healthcare robotics
+
 
 
 
