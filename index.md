@@ -10,7 +10,7 @@ layout: home
 <p style="text-align: center;"><font size="5">2024 IEEE International Conference on Robotics and Automation in PACIFICO Yokohama, Japan
 </font></p>
 <p style="text-align: center;"><font size="5">May 13th to 17th, 2024</font></p>
-<p style="text-align: center;"><font size="5">Location: Sequoia 1</font></p>
+<!-- <p style="text-align: center;"><font size="5">Location: Sequoia 1</font></p> -->
 <p style="text-align: center;"><font size="4">[<a href="">Youtube</a>] [<a href="https://discord.gg/yqjTtBmUJC">Discord</a>] [<a href="https://openreview.net/group?id=IEEE.org/2024/ICRA/Workshop/WIHR">OpenReview</a>]</font></p>
 <!-- <p style="text-align: center;"><font size="4">Recording available at: <a href="">Youtube</a></font></p> -->
 
