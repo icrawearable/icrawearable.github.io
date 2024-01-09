@@ -26,12 +26,12 @@ We aim to discuss questions including, but not limited to:
 - Algorithms: What recent breakthroughs in AI have enhanced the capabilities of wearable intelligence in healthcare?
 - Data-Driven Approaches: What are the most effective practices for learning from real-world and simulated data in healthcare robotics?
 - Efficient Learning: How can we optimize the process of collecting and learning from real-world data in healthcare robotics?
-- Adaptability: How can the design of healthcare robotics be evolved to offer greater personalization and adaptability?
-- Interdisciplinary Integration: How can cognitive science, neuroscience, and genetics be integrated to advance healthcare robotics?
-- Foundation Models: What role can foundation models play in supporting healthcare robotics?
+- Adaptability: How can the design of healthcare wearable robotics be evolved to offer greater personalization and adaptability?
+- Interdisciplinary Integration: How can cognitive science, neuroscience, and genetics be integrated to advance wearable intelligence and healthcare robotics?
+- Foundation Models: What role can foundation models play in supporting wearable intelligence and healthcare robotics?
 - Human-Robot Interaction: How can human-robot interaction be enhanced to improve patient comfort and trust in healthcare settings?
 - Applications: How can AI and machine learning be leveraged in robotics for predictive healthcare and early diagnosis?
-- Ethics, Privacy, and Safety: How can ethical considerations, patient privacy, and safety be prioritized in the development and implementation of healthcare robotics?
+- Ethics, Privacy, and Safety: How can ethical considerations, patient privacy, and safety be prioritized in the development and implementation of wearable intelligence and healthcare robotics?
 - Future Prospects and Challenges: What does the future hold for the use of autonomous robots in surgical procedures and patient care, and what are the associated challenges?
 
 
