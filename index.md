@@ -181,8 +181,8 @@ If you have any questions, please contact us at: wearable-intelligence@googlegro
     </div>
     <div class="gridorg-item">
         <figure>
-        <img src="assets/img/organizers/steven_collins.jpg" width="200" />
-        <figcaption><b><a href="https://profiles.stanford.edu/steven-collins?releaseVersion=10.5.2">Steven Collins</a></b><br>Stanford University</figcaption>
+        <img src="assets/img/organizers/steve_collins.jpg" width="200" />
+        <figcaption><b><a href="https://profiles.stanford.edu/steven-collins">Steven Collins</a></b><br>Stanford University</figcaption>
         </figure>
     </div>
     <div class="gridorg-item">
