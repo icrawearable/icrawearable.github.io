@@ -52,6 +52,8 @@ We invite submissions including but not limited to the following topics:
 - AI-based prediction of human intentions.
 - AI-driven approaches in human-robot interaction.
 - Personalized adaptive strategies for robotic interventions and assistance.
+- Personalized monitoring of wearable devices.
+- Monitoring system for intelligent cockpit.
 - Tailored adaptive strategies for rehabilitation training.
 - Customized strategies for real-time human-robot interaction.
 - Data-driven learning approaches to address variations in individuals or subpopulations.
