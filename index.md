@@ -256,6 +256,12 @@ If you have any questions, please contact us at: wearable-intelligence@googlegro
         <figcaption><b><a href="http://www.bme.cuhk.edu.hk/kytong/">Raymond Tong</a></b><br>CUHK</figcaption>
         </figure>
     </div>
+    <div class="gridorg-item">
+        <figure>
+        <img src="assets/img/advisory_board/conor_walsh.png" width="200"/>
+        <figcaption><b><a href="https://biodesign.seas.harvard.edu/conor-walsh">Conor Walsh</a></b><br>Harvard University</figcaption>
+        </figure>
+    </div>
 </div>
 &nbsp;
 
