@@ -264,6 +264,7 @@ If you have any questions, please contact us at: wearable-intelligence@googlegro
          <div><p><span>&#8226;&nbsp;</span><a href="https://scholar.google.com/citations?user=mabc04YAAAAJ&hl=en">Kyle Lam</a> (Imperial)</p></div>
     </div>
     <div class="gridcom-item">
+        <div><p><span>&#8226;&nbsp;</span><a href="https://anyirao.com/">Anyi Rao</a> (Stanford)</p></div>
         <div><p><span>&#8226;&nbsp;</span><a href="https://jiaqixuac.github.io/">Jiaqi Xu</a> (CUHK)</p></div>
         <div><p><span>&#8226;&nbsp;</span><a href="https://scholar.google.com/citations?user=LXwEufAAAAAJ&hl=en&oi=ao">Chuheng Wei</a> (UC Riverside)</p></div>
         <div><p><span>&#8226;&nbsp;</span><a href="https://uk.linkedin.com/in/nlkaur">Narinder Kaur</a> (UofG)</p></div>
