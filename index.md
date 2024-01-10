@@ -129,6 +129,12 @@ If you have any questions, please contact us at: wearable-intelligence@googlegro
         <figcaption><b><a href="https://kite-uhn.com/scientist/brokoslaw-laschowski">Brokoslaw Laschowski</a></b><br>Toronto Rehabilitation Institute & University of Toronto</figcaption>
         </figure>
     </div>
+    <div class="grid-item">
+        <figure>
+        <img src="assets/img/speakers/jinsoo_kim.jpg" width="200" />
+        <figcaption><b><a href="https://scholar.google.com/citations?user=4uU8UXAAAAAJ&hl=en">Jinsoo Kim</a></b><br>Stanford University</figcaption>
+        </figure>
+    </div>
 </div>
 
 &nbsp;
@@ -250,6 +256,12 @@ If you have any questions, please contact us at: wearable-intelligence@googlegro
         <figure>
         <img src="assets/img/advisory_board/raymond_tong.png" width="200"/>
         <figcaption><b><a href="http://www.bme.cuhk.edu.hk/kytong/">Raymond Tong</a></b><br>CUHK</figcaption>
+        </figure>
+    </div>
+    <div class="gridorg-item">
+        <figure>
+        <img src="assets/img/advisory_board/conor_walsh.png" width="200"/>
+        <figcaption><b><a href="https://biodesign.seas.harvard.edu/conor-walsh">Conor Walsh</a></b><br>Harvard University</figcaption>
         </figure>
     </div>
 </div>
