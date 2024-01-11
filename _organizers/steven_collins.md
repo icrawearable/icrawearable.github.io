@@ -6,7 +6,7 @@ sequence_id: 8
 name: Steven Collins
 
 # Link to the organizer's webpage
-webpage: https://web.stanford.edu/~schwager/
+webpage: https://profiles.stanford.edu/steven-collins
 
 # Primary affiliation
 affil: Stanford University
