@@ -57,7 +57,7 @@ permalink: /organizers/
     </div>
     <div class="gridorg-item">
         <figure>
-        <img src="assets/img/advisory_board/david_clifton.png" width="200"/>
+        <img src="/assets/img/advisory_board/david_clifton.png" width="200"/>
         <figcaption><b><a href="https://eng.ox.ac.uk/people/david-clifton/">David Clifton</a></b><br>University of Oxford</figcaption>
         </figure>
     </div>
