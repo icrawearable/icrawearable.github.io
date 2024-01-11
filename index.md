@@ -253,7 +253,7 @@ If you have any questions, please contact us at: wearable-intelligence@googlegro
     <div class="gridorg-item">
         <figure>
         <img src="assets/img/advisory_board/peter_shull.jpg" width="200"/>
-        <figcaption><b><a href="https://www.wearablesystems.org/">Peter Shull</a></b><br>Shanghai Jiao Tong University</figcaption>
+        <figcaption><b><a href="https://www.wearablesystems.org/people#/peter-shull">Peter Shull</a></b><br>Shanghai Jiao Tong University</figcaption>
         </figure>
     </div>
     <div class="gridorg-item">
