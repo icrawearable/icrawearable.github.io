@@ -93,5 +93,6 @@ permalink: /organizers/
         <div><p><span>&#8226;&nbsp;</span><a href="https://scholar.google.co.uk/citations?user=sLRZCxMAAAAJ&hl=en">Yingnan Sun</a> (OPPO)</p></div>
         <div><p><span>&#8226;&nbsp;</span><a href="https://scholar.google.com/citations?user=JW4F5HoAAAAJ&hl=zh-CN">Haibao Yu</a> (HKU)</p></div>
         <div><p><span>&#8226;&nbsp;</span><a href="https://scholar.google.com/citations?user=rHHZrQEAAAAJ&hl=zh-CN">Bo Xiao</a> (Imperial)</p></div>
+        <div><p><span>&#8226;&nbsp;</span><a href="https://scholar.google.com/citations?user=WFxAYYQAAAAJ&hl=en">Lei Lu</a> (KCL)</p></div>
     </div>
 </div>
