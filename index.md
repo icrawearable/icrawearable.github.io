@@ -66,8 +66,6 @@ We invite submissions including but not limited to the following topics:
 - Future and challenges of wearable intelligence for healthcare robotics
 
 
-
-
 **Important Dates**
 - **Paper submission open**: 2024/01/01
 
