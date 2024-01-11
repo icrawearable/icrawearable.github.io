@@ -4,8 +4,6 @@ title: Call for papers
 permalink: /callforpapers/
 ---
 
-Driven by these observations and reflections, our workshop stands at the forefront of healthcare innovation. It will delve into several interconnected domains, each providing distinct perspectives and strategies to revolutionize the field of healthcare robotics.
-
 We aim to discuss questions including, but not limited to:
 
 - Paradigms: What new paradigms are being explored to develop innovative wearable solutions in healthcare robotics?
@@ -18,7 +16,7 @@ We aim to discuss questions including, but not limited to:
 - Human-Robot Interaction: How can human-robot interaction be enhanced to improve patient comfort and trust in healthcare settings?
 - Applications: How can AI and machine learning be leveraged in robotics for predictive healthcare and early diagnosis?
 - Ethics, Privacy, and Safety: How can ethical considerations, patient privacy, and safety be prioritized in the development and implementation of wearable intelligence and healthcare robotics?
-- Future Prospects and Challenges: What does the future hold for the use of autonomous robots in surgical procedures and patient care, and what are the associated challenges?
+- Future Prospects and Challenges: What does the future hold for the use of wearable intelligence and robots in healthcare, and what are the associated challenges?
 
 
 &nbsp;
