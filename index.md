@@ -270,6 +270,12 @@ If you have any questions, please contact us at: wearable-intelligence@googlegro
     </div>
     <div class="gridorg-item">
         <figure>
+        <img src="assets/img/advisory_board/david_clifton.png" width="200"/>
+        <figcaption><b><a href="https://eng.ox.ac.uk/people/david-clifton/">David Clifton</a></b><br>University of Oxford</figcaption>
+        </figure>
+    </div>
+    <div class="gridorg-item">
+        <figure>
         <img src="assets/img/advisory_board/conor_walsh.png" width="200"/>
         <figcaption><b><a href="https://biodesign.seas.harvard.edu/conor-walsh">Conor Walsh</a></b><br>Harvard University</figcaption>
         </figure>
@@ -300,6 +306,7 @@ If you have any questions, please contact us at: wearable-intelligence@googlegro
         <div><p><span>&#8226;&nbsp;</span><a href="https://scholar.google.co.uk/citations?user=sLRZCxMAAAAJ&hl=en">Yingnan Sun</a> (OPPO)</p></div>
         <div><p><span>&#8226;&nbsp;</span><a href="https://scholar.google.com/citations?user=JW4F5HoAAAAJ&hl=zh-CN">Haibao Yu</a> (HKU)</p></div>
         <div><p><span>&#8226;&nbsp;</span><a href="https://scholar.google.com/citations?user=rHHZrQEAAAAJ&hl=zh-CN">Bo Xiao</a> (Imperial)</p></div>
+        <div><p><span>&#8226;&nbsp;</span><a href="https://scholar.google.com/citations?user=WFxAYYQAAAAJ&hl=en">Lei Lu</a> (KCL)</p></div>
     </div>
 </div>
 
