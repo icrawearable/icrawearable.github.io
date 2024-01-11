@@ -133,6 +133,12 @@ If you have any questions, please contact us at: wearable-intelligence@googlegro
         <figcaption><b><a href="https://scholar.google.com/citations?user=4uU8UXAAAAAJ&hl=en">Jinsoo Kim</a></b><br>Stanford University</figcaption>
         </figure>
     </div>
+    <div class="grid-item">
+        <figure>
+        <img src="assets/img/speakers/ruohan_zhang.jpg" width="200" />
+        <figcaption><b><a href="https://ai.stanford.edu/~zharu/">Ruohan Zhang</a></b><br>Stanford University</figcaption>
+        </figure>
+    </div>
 </div>
 
 &nbsp;
