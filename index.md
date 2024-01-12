@@ -276,6 +276,12 @@ If you have any questions, please contact us at: wearable-intelligence@googlegro
     </div>
     <div class="gridorg-item">
         <figure>
+        <img src="assets/img/advisory_board/susan_murphy.jpg" width="200"/>
+        <figcaption><b><a href="https://people.seas.harvard.edu/~samurphy/">Susan A. Murphy</a></b><br>Harvard University</figcaption>
+        </figure>
+    </div>
+    <div class="gridorg-item">
+        <figure>
         <img src="assets/img/advisory_board/conor_walsh.png" width="200"/>
         <figcaption><b><a href="https://biodesign.seas.harvard.edu/conor-walsh">Conor Walsh</a></b><br>Harvard University</figcaption>
         </figure>
