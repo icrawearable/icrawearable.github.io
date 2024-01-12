@@ -289,6 +289,7 @@ If you have any questions, please contact us at: wearable-intelligence@googlegro
 <div class='grid'>
     <div class="gridcom-item">
         <div><p><span>&#8226;&nbsp;</span><a href="https://zipingxu.github.io/">Ziping Xu</a> (Harvard)</p></div>
+        <div><p><span>&#8226;&nbsp;</span><a href="https://schmidtsciencefellows.org/fellow/asim-gazi/">Asim Gazi</a> (Harvard)</p></div>
         <div><p><span>&#8226;&nbsp;</span><a href="https://treelli.github.io/">Lin Li</a> (KCL)</p></div>
         <div><p><span>&#8226;&nbsp;</span><a href="https://www.gla.ac.uk/schools/computing/staff/fanideligianni/">Fani Deligianni</a> (UofG)</p></div>
          <div><p><span>&#8226;&nbsp;</span><a href="https://scholar.google.com/citations?user=mabc04YAAAAJ&hl=en">Kyle Lam</a> (Imperial)</p></div>
