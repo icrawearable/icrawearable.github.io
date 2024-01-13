@@ -63,13 +63,19 @@ permalink: /organizers/
     </div>
     <div class="gridorg-item">
         <figure>
-        <img src="assets/img/advisory_board/susan_murphy.jpg" width="200"/>
+        <img src="/assets/img/advisory_board/susan_murphy.jpg" width="200"/>
         <figcaption><b><a href="https://people.seas.harvard.edu/~samurphy/">Susan A. Murphy</a></b><br>Harvard University</figcaption>
         </figure>
     </div>
     <div class="gridorg-item">
         <figure>
-        <img src="assets/img/advisory_board/conor_walsh.png" width="200"/>
+        <img src="/assets/img/advisory_board/scott_delp.jpg" width="200"/>
+        <figcaption><b><a href="https://nmbl.stanford.edu/people/scott-delp/">Scott L. Delp</a></b><br>Stanford University</figcaption>
+        </figure>
+    </div>
+    <div class="gridorg-item">
+        <figure>
+        <img src="/assets/img/advisory_board/conor_walsh.png" width="200"/>
         <figcaption><b><a href="https://biodesign.seas.harvard.edu/conor-walsh">Conor Walsh</a></b><br>Harvard University</figcaption>
         </figure>
     </div>

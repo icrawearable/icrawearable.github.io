@@ -282,6 +282,12 @@ If you have any questions, please contact us at: wearable-intelligence@googlegro
     </div>
     <div class="gridorg-item">
         <figure>
+        <img src="assets/img/advisory_board/scott_delp.jpg" width="200"/>
+        <figcaption><b><a href="https://nmbl.stanford.edu/people/scott-delp/">Scott L. Delp</a></b><br>Stanford University</figcaption>
+        </figure>
+    </div>
+    <div class="gridorg-item">
+        <figure>
         <img src="assets/img/advisory_board/conor_walsh.png" width="200"/>
         <figcaption><b><a href="https://biodesign.seas.harvard.edu/conor-walsh">Conor Walsh</a></b><br>Harvard University</figcaption>
         </figure>
