@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 permalink: /
-title: "1st Workshop on Wearable Intelligence for Healthcare Robotics (WIHR): from Brain Minds to Body Movements"
+title: "1st Workshop on Wearable Intelligence for Healthcare Robotics (WIHR): from Cognitive Functions to Physical Movements"
 list_title: Home
 layout: home
 ---
