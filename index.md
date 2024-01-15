@@ -325,4 +325,6 @@ If you have any questions, please contact us at: wearable-intelligence@googlegro
 </div>
 
 
+### Sponsors
+&nbsp;
 
