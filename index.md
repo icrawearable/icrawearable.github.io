@@ -328,3 +328,11 @@ If you have any questions, please contact us at: wearable-intelligence@googlegro
 ### Sponsors
 &nbsp;
 
+<div class="grid">
+    <div class="gridorg-item">
+        <figure>
+        <img src="assets/img/sponsors/keyun_sponsor.jpg" width="200"/>
+        <figcaption><b><a href="https://gdp.rjmart.cn">Guangzhou Coloring Technology Co., Ltd.</a></b><br></figcaption>
+        </figure>
+    </div>
+</div>
