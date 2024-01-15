@@ -79,7 +79,7 @@ We invite submissions including but not limited to the following topics:
 
 - **Submission portal**: [ICRA 2024 Workshop WIHR (OpenReview)](https://openreview.net/group?id=IEEE.org/2024/ICRA/Workshop/WIHR).
 
-We expect submissions with 2 - 8 pages for the main content, with no limit on references/appendices. Submissions are suggested to use the [IEEE template](https://ras.papercept.net/conferences/support/support.php). All papers will be peer-reviewed in a double-blind manner. We welcome both unpublished original contributions and recently published relevant works. Accepted papers will be presented in the form of posters, with several papers being selected for spotlight sessions. The <b><font color=red>Best Paper Award</font></b> and <b><font color=red>Best Poster Award</font></b> will be presented to honor exceptional contributions among the accepted submissions.
+We expect submissions with 2 - 8 pages for the main content, with no limit on references/appendices. Submissions are suggested to use the [IEEE template](https://ras.papercept.net/conferences/support/support.php). All papers will be peer-reviewed in a double-blind manner. We welcome both unpublished original contributions and recently published relevant works. Accepted papers will be presented in the form of posters, with several papers being selected for spotlight sessions. The <b><font color=red>Best Paper Award</font></b> and <b><font color=red>Best Poster Award</font></b> will be presented to honor exceptional contributions among the accepted submissions, with cash prize of <b>300 US dollors</b> for each award.
 
 **Contact**
 
