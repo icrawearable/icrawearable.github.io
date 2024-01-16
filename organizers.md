@@ -105,6 +105,7 @@ permalink: /organizers/
         <div><p><span>&#8226;&nbsp;</span><a href="https://jiaqixuac.github.io/">Jiaqi Xu</a> (CUHK)</p></div>
         <div><p><span>&#8226;&nbsp;</span><a href="https://scholar.google.com/citations?user=LXwEufAAAAAJ&hl=en&oi=ao">Chuheng Wei</a> (UC Riverside)</p></div>
         <div><p><span>&#8226;&nbsp;</span><a href="https://uk.linkedin.com/in/nlkaur">Narinder Kaur</a> (UofG)</p></div>
+        <div><p><span>&#8226;&nbsp;</span><a href="">Shuai Jiang</a> (Sun Yat-sen University)</p></div>
         <div><p><span>&#8226;&nbsp;</span><a href="https://ieeexplore.ieee.org/author/37086579788">Lipeng Chen</a> (Tencent Robotics X)</p></div>
     </div>
     <div class="gridcom-item">

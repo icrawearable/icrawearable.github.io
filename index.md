@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 permalink: /
-title: "1st Workshop on Wearable Intelligence for Healthcare Robotics (WIHR): from Brain Minds to Body Movements"
+title: "1st Workshop on Wearable Intelligence for Healthcare Robotics (WIHR): from Brain Activity to Body Movements"
 list_title: Home
 layout: home
 ---
@@ -22,17 +22,17 @@ Driven by these observations and reflections, our workshop stands at the forefro
 
 We aim to discuss questions including, but not limited to:
 
-- Paradigms: What new paradigms are being explored to develop innovative wearable solutions in healthcare robotics?
-- Algorithms: What recent breakthroughs in AI have enhanced the capabilities of wearable intelligence in healthcare?
-- Data-Driven Approaches: What are the most effective practices for learning from real-world and simulated data in healthcare robotics?
-- Efficient Learning: How can we optimize the process of collecting and learning from real-world data in healthcare robotics?
-- Adaptability: How can the design of healthcare wearable robotics be evolved to offer greater personalization and adaptability?
-- Interdisciplinary Integration: How can cognitive science, neuroscience, and genetics be integrated to advance wearable intelligence and healthcare robotics?
-- Foundation Models: What role can foundation models play in supporting wearable intelligence and healthcare robotics?
-- Human-Robot Interaction: How can human-robot interaction be enhanced to improve patient comfort and trust in healthcare settings?
-- Applications: How can AI and machine learning be leveraged in robotics for predictive healthcare and early diagnosis?
-- Ethics, Privacy, and Safety: How can ethical considerations, patient privacy, and safety be prioritized in the development and implementation of wearable intelligence and healthcare robotics?
-- Future Prospects and Challenges: What does the future hold for the use of wearable intelligence and robots in healthcare, and what are the associated challenges?
+- **Paradigms**: What new paradigms are being explored to develop innovative wearable solutions in healthcare robotics?
+- **Algorithms**: What recent breakthroughs in AI have enhanced the capabilities of wearable intelligence in healthcare?
+- **Data-Driven Approaches**: What are the most effective practices for learning from real-world and simulated data in healthcare robotics?
+- **Efficient Learning**: How can we optimize the process of collecting and learning from real-world data in healthcare robotics?
+- **Adaptability**: How can the design of healthcare wearable robotics be evolved to offer greater personalization and adaptability?
+- **Interdisciplinary Integration**: How can cognitive science, neuroscience, and genetics be integrated to advance wearable intelligence and healthcare robotics?
+- **Foundation Models**: What role can foundation models play in supporting wearable intelligence and healthcare robotics?
+- **Human-Robot Interaction**: How can human-robot interaction be enhanced to improve patient comfort and trust in healthcare settings?
+- **Applications**: How can AI and machine learning be leveraged in robotics for predictive healthcare and early diagnosis?
+- **Ethics, Privacy, and Safety**: How can ethical considerations, patient privacy, and safety be prioritized in the development and implementation of wearable intelligence and healthcare robotics?
+- **Future Prospects and Challenges**: What does the future hold for the use of wearable intelligence and robots in healthcare, and what are the associated challenges?
 
 
 &nbsp;
@@ -79,7 +79,7 @@ We invite submissions including but not limited to the following topics:
 
 - **Submission portal**: [ICRA 2024 Workshop WIHR (OpenReview)](https://openreview.net/group?id=IEEE.org/2024/ICRA/Workshop/WIHR).
 
-We expect submissions with 2 - 8 pages for the main content, with no limit on references/appendices. Submissions are suggested to use the [IEEE template](https://ras.papercept.net/conferences/support/support.php). All papers will be peer-reviewed in a double-blind manner. We welcome both unpublished original contributions and recently published relevant works. Accepted papers will be presented in the form of posters, with several papers being selected for spotlight sessions. The <b><font color=red>Best Paper Award</font></b> and <b><font color=red>Best Poster Award</font></b> will be presented to honor exceptional contributions among the accepted submissions.
+We expect submissions with 2 - 8 pages for the main content, with no limit on references/appendices. Submissions are suggested to use the [IEEE template](https://ras.papercept.net/conferences/support/support.php). All papers will be peer-reviewed in a double-blind manner. We welcome both unpublished original contributions and recently published relevant works. Accepted papers will be presented in the form of posters, with several papers being selected for spotlight sessions. The <b><font color=red>Best Paper Award</font></b> and <b><font color=red>Best Poster Award</font></b> will be presented to honor exceptional contributions among the accepted submissions, with a cash prize of <b>300 US dollors</b> for each award.
 
 **Contact**
 
@@ -318,6 +318,7 @@ If you have any questions, please contact us at: wearable-intelligence@googlegro
         <div><p><span>&#8226;&nbsp;</span><a href="https://jiaqixuac.github.io/">Jiaqi Xu</a> (CUHK)</p></div>
         <div><p><span>&#8226;&nbsp;</span><a href="https://scholar.google.com/citations?user=LXwEufAAAAAJ&hl=en&oi=ao">Chuheng Wei</a> (UC Riverside)</p></div>
         <div><p><span>&#8226;&nbsp;</span><a href="https://uk.linkedin.com/in/nlkaur">Narinder Kaur</a> (UofG)</p></div>
+        <div><p><span>&#8226;&nbsp;</span><a href="">Shuai Jiang</a> (Sun Yat-sen University)</p></div>
         <div><p><span>&#8226;&nbsp;</span><a href="https://ieeexplore.ieee.org/author/37086579788">Lipeng Chen</a> (Tencent Robotics X)</p></div>
     </div>
     <div class="gridcom-item">
@@ -330,4 +331,14 @@ If you have any questions, please contact us at: wearable-intelligence@googlegro
 </div>
 
 
+### Sponsors
+&nbsp;
 
+<div class="grid">
+    <div class="gridorg-item">
+        <figure>
+        <img src="assets/img/sponsors/keyun_sponsor.jpg" width="200"/>
+        <figcaption><b><a href="https://gdp.rjmart.cn">Guangzhou Coloring Technology Co., Ltd.</a></b><br></figcaption>
+        </figure>
+    </div>
+</div>
