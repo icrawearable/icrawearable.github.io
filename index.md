@@ -228,6 +228,12 @@ If you have any questions, please contact us at: wearable-intelligence@googlegro
     </div>
     <div class="gridorg-item">
         <figure>
+        <img src="assets/img/advisory_board/patrick_slade.jpg" width="200"/>
+        <figcaption><b><a href="https://seas.harvard.edu/person/patrick-slade">Patrick Slade</a></b><br>Harvard University</figcaption>
+        </figure>
+    </div>
+    <div class="gridorg-item">
+        <figure>
         <img src="assets/img/advisory_board/wei_gao.jpg" width="200"/>
         <figcaption><b><a href="https://www.eas.caltech.edu/people/weigao">Wei Gao</a></b><br>Caltech</figcaption>
         </figure>
