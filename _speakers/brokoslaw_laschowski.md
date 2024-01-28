@@ -23,5 +23,5 @@ img: brokoslaw_laschowski.png
 
 <!-- Whatever you write below will show up as the speaker's bio -->
 
-
+Robotic Leg Control: From Artificial Intelligence to Brain-Machine Interfaces
 
