@@ -23,5 +23,5 @@ img: etienne_burdet.jpg
 
 <!-- Whatever you write below will show up as the speaker's bio -->
 
-HARMS Lab: Human-centred Automation, Robotics and Monitoring for Surgery
+Social Rehabilitation Network
 
