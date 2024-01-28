@@ -23,5 +23,5 @@ img: george_mylonas.jpg
 
 <!-- Whatever you write below will show up as the speaker's bio -->
 
-HARMS Lab: Human-centred Automation, Robotics and Monitoring for Surgery
+MAESTRO: Multi-sensed AI Environment for Surgical Task and Role Optimisation
 
