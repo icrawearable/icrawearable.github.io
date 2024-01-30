@@ -288,6 +288,12 @@ If you have any questions, please contact us at: wearable-intelligence@googlegro
     </div>
     <div class="gridorg-item">
         <figure>
+        <img src="assets/img/advisory_board/david_camarillo.jpg" width="200"/>
+        <figcaption><b><a href="https://med.stanford.edu/profiles/david-camarillo">David Camarillo</a></b><br>Stanford University</figcaption>
+        </figure>
+    </div>
+    <div class="gridorg-item">
+        <figure>
         <img src="assets/img/advisory_board/susan_murphy.jpg" width="200"/>
         <figcaption><b><a href="https://people.seas.harvard.edu/~samurphy/">Susan A. Murphy</a></b><br>Harvard University</figcaption>
         </figure>
