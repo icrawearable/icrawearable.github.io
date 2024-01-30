@@ -15,7 +15,7 @@ permalink: /organizers/
     </div>
     <div class="gridorg-item">
         <figure>
-        <img src="assets/img/advisory_board/patrick_slade.jpg" width="200"/>
+        <img src="/assets/img/advisory_board/patrick_slade.jpg" width="200"/>
         <figcaption><b><a href="https://seas.harvard.edu/person/patrick-slade">Patrick Slade</a></b><br>Harvard University</figcaption>
         </figure>
     </div>
