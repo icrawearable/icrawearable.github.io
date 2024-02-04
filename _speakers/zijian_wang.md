@@ -24,5 +24,19 @@ img: zijian_wang.jpg
 
 <!-- Whatever you write below will show up as the speaker's bio -->
 
-Robotics
+<p><b> Talk Title </b></p>
+
+Project Aria: A new tool for egocentric multi-modal AI research
+
+ 
+
+<p><b> Talk Description </b></p>
+
+Egocentric, multi-modal data as available on future augmented reality (AR) devices provides unique challenges and opportunities for machine perception. These future devices will need to be all-day wearable in a socially acceptable form-factor to support always available, context-aware and personalized AI applications. Our team at Meta Reality Labs Research built the Aria device, an egocentric, multi-modal data recording and streaming device with the goal to foster and accelerate research in this area. In this paper, we describe the Aria device hardware including its sensor configuration and the corresponding software tools that enable recording and processing of such data.
+
+ 
+
+<p><b> Speaker Bio </b></p>
+
+Zijian is a Research Scientist at Meta. His research interest is multi-robot systems, for which he designs distributed planning and control algorithms that enable a group of intelligent robots to either collaborate on a common task, or compete among adversarial agents.
 
