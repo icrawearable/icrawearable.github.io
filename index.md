@@ -75,7 +75,7 @@ We invite submissions including but not limited to the following topics:
 
 - **Camera ready**: 2024/05/03
 
-- **Workshop date**: 2024/05/14
+- **Workshop date**: 2024/05/17
 
 - **Submission portal**: [ICRA 2024 Workshop WIHR (OpenReview)](https://openreview.net/group?id=IEEE.org/2024/ICRA/Workshop/WIHR).
 
