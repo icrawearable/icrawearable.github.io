@@ -187,7 +187,7 @@ If you have any questions, please contact us at: wearable-intelligence@googlegro
     </div>
     <div class="gridorg-item">
         <figure>
-        <img src="assets/img/organizers/shuo_jiang.jpeg" width="200" />
+        <img src="assets/img/organizers/shuo_jiang.jpg" width="200" />
         <figcaption><b><a href="https://scholar.google.com/citations?user=zcpunN8AAAAJ&hl=en">Shuo Jiang</a></b><br>Tongji University</figcaption>
         </figure>
     </div>
