@@ -14,7 +14,7 @@ affil: Tongji University
 affil_link: https://scholar.google.com/citations?user=zcpunN8AAAAJ&hl=en
 
 # An image of the organizer (square aspect ratio works the best) (place in the `assets/img/organizers` directory)
-img: shuo_jiang.jpeg
+img: shuo_jiang.jpg
 
 # # Secondary affiliation
 # affil2: BuzzFizz Corp
