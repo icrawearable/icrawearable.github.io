@@ -349,6 +349,12 @@ If you have any questions, please contact us at: wearable-intelligence@googlegro
 <div class="grid">
     <div class="gridorg-item">
         <figure>
+        <img src="assets/img/sponsors/Intel_logo_2023.png" width="200"/>
+        <figcaption><b><a href="https://www.intel.com/">Intel</a></b><br></figcaption>
+        </figure>
+    </div>
+    <div class="gridorg-item">
+        <figure>
         <img src="assets/img/sponsors/keyun_sponsor.jpg" width="200"/>
         <figcaption><b><a href="https://gdp.rjmart.cn">Guangzhou Coloring Technology Co., Ltd.</a></b><br></figcaption>
         </figure>
