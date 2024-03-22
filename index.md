@@ -69,9 +69,9 @@ We invite submissions including but not limited to the following topics:
 **Important Dates**
 - **Paper submission open**: 2024/01/01
 
-- **Paper submission deadline**: 2024/03/25 PST
+- **Paper submission deadline**: 2024/04/03 PST
 
-- **Notification of acceptance**: 2024/03/31
+- **Notification of acceptance**: 2024/04/07
 
 - **Camera ready**: 2024/05/03
 
