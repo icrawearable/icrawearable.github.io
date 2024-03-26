@@ -355,7 +355,7 @@ If you have any questions, please contact us at: wearable-intelligence@googlegro
     </div>
     <div class="gridorg-item">
         <figure>
-        <a href="https://gdp.rjmart.cn"><img src="assets/img/sponsors/cbs_logo.jpg" width="500"/></a>
+        <a href="https://gdp.rjmart.cn"><img src="assets/img/sponsors/cbs_logo.jpg" width="1000"/></a>
         <!-- <figcaption><b><a href="https://gdp.rjmart.cn">Guangzhou Coloring Technology Co., Ltd.</a></b><br></figcaption> -->
         </figure>
     </div>
