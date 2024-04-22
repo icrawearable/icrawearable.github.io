@@ -117,8 +117,9 @@ If you have any questions, please contact us at: wearable-intelligence@googlegro
     </div>
     <div class="grid-item">
         <figure>
-        <img src="assets/img/speakers/allison_okamura.jpg" width="200" />
-        <figcaption><b><a href="https://charm.stanford.edu/Main/AllisonOkamura/">Allison Okamura</a></b><br>Stanford University</figcaption>
+        <img src="assets/img/speakers/jasmin-e-palmer.jpg" width="200" />
+        <figcaption><b><a href="https://profiles.stanford.edu/jasmin-e-palmer">Jasmin E. Palmer
+</a></b><br>Stanford University</figcaption>
         </figure>
     </div>
     <div class="grid-item">
