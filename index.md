@@ -81,6 +81,8 @@ We invite submissions including but not limited to the following topics:
 
 We expect submissions with 2 - 8 pages for the main content, with no limit on references/appendices. Submissions are suggested to use the [IEEE template](https://ras.papercept.net/conferences/support/support.php). All papers will be peer-reviewed in a double-blind manner. We welcome both unpublished original contributions and recently published relevant works. Accepted papers will be presented in the form of posters, with several papers being selected for spotlight sessions. The <b><font color=red>Best Presentation Award</font></b> and <b><font color=red>Best Poster Award</font></b> will be presented to honor exceptional contributions among the accepted submissions, with a cash prize of <b>300 US dollors</b> for each award.
 
+NEWS: Excellent works are invited to submit an extended version to the special issue on SPJ Cyborg and Bionic Systems: [Emerging Trends in Wearable Technologies, AI, and Robotics for Pervasive Healthcare](https://spj.science.org/page/cbsystems/si/emerging-trends-in-wearable-technologies-ai-and-robotics-for-pervasive-healthcare) 
+
 **Contact**
 
 If you have any questions, please contact us at: wearable-intelligence@googlegroups.com.
