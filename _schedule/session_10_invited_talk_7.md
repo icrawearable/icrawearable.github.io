@@ -3,10 +3,10 @@
 sequence_id: 10
 
 # Speaker name
-speaker: #Sergey Levine
+speaker: Etienne Burdet
 
 # Title of the event
-title: #"Large-Scale Data-Driven Robotic Learning"
+title: Social Rehabilitation Network
 
 # Time of the event
 time: 13:30 - 14:00
