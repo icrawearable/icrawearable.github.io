@@ -26,17 +26,18 @@ img: zijian_wang.jpg
 
 <p><b> Talk Title </b></p>
 
-Project Aria: A new tool for egocentric multi-modal AI research
+Aria Glasses: An open-science wearable device for egocentric multi-modal AI research
 
  
 
 <p><b> Talk Description </b></p>
 
-Egocentric, multi-modal data as available on future augmented reality (AR) devices provides unique challenges and opportunities for machine perception. These future devices will need to be all-day wearable in a socially acceptable form-factor to support always available, context-aware and personalized AI applications. Our team at Meta Reality Labs Research built the Aria device, an egocentric, multi-modal data recording and streaming device with the goal to foster and accelerate research in this area. In this paper, we describe the Aria device hardware including its sensor configuration and the corresponding software tools that enable recording and processing of such data.
+Augmented reality (AR) glasses will profoundly re-shape how we design assistive AI technolgoies, including healthcare robotics, by harnessing human experience and training powerful AI models using egocentric data sources. We introduce Aria, the all-day wearable, socially acceptable form-factor glasses to support always available, context-aware and personalized AI applications. Its industry-leading hardware specs, multi-modal data recording and streaming features, along with open-source software, datasets and community, make Aria the go-to platform for egocentric AI research and are quickly accelerating this emerging research field. In this talk, I will give an overview of the Aria ecosystem, recent advances in state-of-the-art egocentric machine perception, available open-source Aria software tools, as well as discussing the challenges and opportunities related to wearable/healthcare robotics research. 
+
 
  
 
 <p><b> Speaker Bio </b></p>
 
-Zijian is a Research Scientist at Meta. His research interest is multi-robot systems, for which he designs distributed planning and control algorithms that enable a group of intelligent robots to either collaborate on a common task, or compete among adversarial agents.
+Dr. Zijian Wang is a Research Engineer at Meta’s Reality Lab Research division. His research interests include Augmented Reality (AR) glasses, 3D computer vision, contextual AI, hardware-software co-optimization, and robotics. Prior to joining Meta, he obtained his Ph.D. degree in 2019 advised by Prof. Mac Schwager from Stanford University, where he worked on planning and control for multi-robot systems. 
 
