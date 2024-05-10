@@ -3,10 +3,10 @@
 sequence_id: 7
 
 # Speaker name
-speaker: #Karen Liu
+speaker: Ruohan Zhang
 
 # Title of the event
-title: #"Large-scale and Diverse Human Demonstrations for Training Generalist Robots"
+title: NOIR: Neural Signal Operated Intelligent Robot for Everyday Activities
 
 # Time of the event
 time: 11:30 - 12:00
