@@ -6,7 +6,7 @@ sequence_id: 7
 speaker: Ruohan Zhang
 
 # Title of the event
-title: NOIR: Neural Signal Operated Intelligent Robot for Everyday Activities
+title: NOIR - Neural Signal Operated Intelligent Robot for Everyday Activities
 
 # Time of the event
 time: 11:30 - 12:00
