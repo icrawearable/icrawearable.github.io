@@ -6,7 +6,7 @@ sequence_id: 6
 speaker: George Mylonas
 
 # Title of the event
-title: MAESTRO: Multi-sensed AI Environment for Surgical Task and Role Optimisation
+title: 
 
 # Time of the event
 time: 11:30 - 12:00
