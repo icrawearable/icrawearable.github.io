@@ -25,7 +25,7 @@ img: ruohan_zhang.jpg
 
 <p><b> Talk Title </b></p>
 
-NOIR: Neural Signal Operated Intelligent Robot for Everyday Activities
+Towards Human-Centered Robotics
 
  
 
