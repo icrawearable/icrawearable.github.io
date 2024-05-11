@@ -3,10 +3,10 @@
 sequence_id: 6
 
 # Speaker name
-speaker: #Ming C. Lin
+speaker: George Mylonas
 
 # Title of the event
-title: #"Dynamics-Aware Learning: from Simulated Reality to Physical World"
+title: MAESTRO: Multi-sensed AI Environment for Surgical Task and Role Optimisation
 
 # Time of the event
 time: 11:00 - 11:30
