@@ -6,7 +6,7 @@ sequence_id: 15
 # speaker: Yimin Zhang
 
 # Title of the event
-wide_title: Introduction of Intel Robotics 
+# title: Introduction of Intel Robotics 
 
 # Time of the event
 time: 16:20 - 16:40
