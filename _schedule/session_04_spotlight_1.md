@@ -10,5 +10,5 @@ wide_title: #"Spotlight 1: A Data Generation System for Scalable Robot Learning 
 #<br> Spotlight 2: Extreme Parkour with Legged Robots <br> Spotlight 3: Constructing interactive Realistic Scenes from Real Images via Simulation and Generative Modeling <br> Spotlight 4: Low-Cost Exoskeletons for Learning Whole-Arm Manipulation in the Wild"
 
 # Time of the event
-time: 10:40 - 11:00
+time: 10:40 - 11:10
 ---
