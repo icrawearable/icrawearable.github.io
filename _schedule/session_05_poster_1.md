@@ -3,11 +3,11 @@
 sequence_id: 5
 
 # Speaker name
-# speaker: Poster & Coffee Break
+# speaker: 
 
 # Title of the event
 wide_title: "Poster Session 1 & Coffee Break"
 
 # Time of the event
-time: 11:10 - 11:30
+time: 11:00 - 11:30
 ---
