@@ -3,10 +3,10 @@
 sequence_id: 3
 
 # Speaker name
-speaker: #Dhruv Batra
+speaker: Ruohan Zhang
 
 # Title of the event
-title: #"Robot Skill Acquisition: Where do things stand in simulation & sim2real land?"
+title: Towards Human-Centered Robotics
 
 # Time of the event
 time: 10:10 - 10:40
