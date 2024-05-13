@@ -6,7 +6,7 @@ sequence_id: 4
 # speaker: Poster & Coffee Break
 
 # Title of the event
-wide_title: "Poster Session 1 & Coffee Break"
+wide_title: "Poster Session & Coffee Break"
 
 # Time of the event
 time: 10:40 - 11:00
