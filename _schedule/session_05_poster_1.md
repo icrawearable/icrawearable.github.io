@@ -3,10 +3,10 @@
 sequence_id: 5
 
 # Speaker name
-# speaker: 
+speaker: Zijian Wang
 
 # Title of the event
-wide_title: "Poster Session 1 & Coffee Break"
+title: Aria Glasses: An open-science wearable device for egocentric multi-modal AI research
 
 # Time of the event
 time: 11:00 - 11:30
