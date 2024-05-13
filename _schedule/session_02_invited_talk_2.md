@@ -9,5 +9,5 @@ speaker: Yuzhe Yang
 title: From Clinics to Homes - Assessing Disease and Health with Everyday Devices
 
 # Time of the event
-time: 09:10 - 09:40
+time: 09:40 - 10:10
 ---
