@@ -9,5 +9,5 @@ speaker: Brokoslaw Laschowski
 title: "Robotic Leg Control: From Artificial Intelligence to Brain-Machine Interfaces"
 
 # Time of the event
-time: 08:40 - 09:10
+time: 09:10 - 09:40
 ---
