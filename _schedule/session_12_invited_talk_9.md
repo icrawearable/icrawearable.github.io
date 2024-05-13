@@ -6,7 +6,7 @@ sequence_id: 12
 speaker: Jasmin E. Palmer 
 
 # Title of the event
-title: Feeling the Future Augmenting Medicine with Relocated Haptic Feedback in Extended Reality Environments
+title: "Feeling the Future: Augmenting Medicine with Relocated Haptic Feedback in Extended Reality Environments"
 
 # Time of the event
 time: 14:30 - 15:00
