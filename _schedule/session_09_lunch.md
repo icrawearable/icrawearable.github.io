@@ -9,5 +9,5 @@ sequence_id: 9
 wide_title: "Lunch Break"
 
 # Time of the event
-time: 12:30 - 13:30
+time: 12:00 - 13:30
 ---
