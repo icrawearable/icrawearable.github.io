@@ -3,7 +3,7 @@
 sequence_id: 15
 
 # Speaker name
-# speaker: Paper Authors
+# speaker: Yimin Zhang
 
 # Title of the event
 wide_title: Introduction of Intel Robotics 
