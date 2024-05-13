@@ -6,7 +6,7 @@ sequence_id: 13
 speaker: Shuo Jiang
 
 # Title of the event
-title: Embodied AI 
+title: Wearable Intelligence for Embodied Perception 
 
 # Time of the event
 time: 15:00 - 15:30
