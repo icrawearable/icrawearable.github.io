@@ -3,10 +3,10 @@
 sequence_id: 13
 
 # Speaker name
-speaker: #Dieter Fox
+speaker: Shuo Jiang
 
 # Title of the event
-title: #"Training Manipulation Skills in Simulation"
+title: Embodied AI 
 
 # Time of the event
 time: 15:00 - 15:30
