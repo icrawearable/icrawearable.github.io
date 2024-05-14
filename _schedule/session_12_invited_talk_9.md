@@ -3,10 +3,10 @@
 sequence_id: 12
 
 # Speaker name
-speaker: Jasmin E. Palmer 
+speaker: George Mylonas
 
 # Title of the event
-title: "Feeling the Future: Augmenting Medicine with Relocated Haptic Feedback in Extended Reality Environments"
+title: "MAESTRO: Multi-sensed AI Environment for Surgical Task and Role Optimisation"
 
 # Time of the event
 time: 14:30 - 15:00
