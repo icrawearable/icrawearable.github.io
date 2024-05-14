@@ -3,10 +3,10 @@
 sequence_id: 6
 
 # Speaker name
-speaker: Jasmin E. Palmer 
+speaker: Ruohan Zhang
 
 # Title of the event
-title: "Feeling the Future: Augmenting Medicine with Relocated Haptic Feedback in Extended Reality Environments"
+title: Towards Human-Centered Robotics
 
 # Time of the event
 time: 11:30 - 12:00
