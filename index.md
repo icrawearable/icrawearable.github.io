@@ -9,9 +9,10 @@ layout: home
 ---
 <p style="text-align: center;"><font size="5"><a href="https://2024.ieee-icra.org/">2024 IEEE International Conference on Robotics and Automation in PACIFICO Yokohama, Japan</a>
 </font></p>
-<p style="text-align: center;"><font size="5">May 17th, 2024. Location: North G301</font></p>
+<p style="text-align: center;"><font size="5">May 17th, 2024. Location: <a href="https://maps.app.goo.gl/sRLmoKcE8mKDdGEs9">North G301</a></font></p>
 <!-- <p style="text-align: center;"><font size="5">Location: Sequoia 1</font></p> -->
-<p style="text-align: center;"><font size="4">[<a href="">Youtube</a>] [<a href="https://discord.gg/yqjTtBmUJC">Discord</a>] [<a href="https://openreview.net/group?id=IEEE.org/2024/ICRA/Workshop/WIHR">OpenReview</a>]</font></p>
+<p style="text-align: center;"><font size="4">
+<!-- [<a href="">Youtube</a>] -->[<a href="https://discord.gg/yqjTtBmUJC">Discord</a>] [<a href="https://openreview.net/group?id=IEEE.org/2024/ICRA/Workshop/WIHR">OpenReview</a>]</font></p>
 <!-- <p style="text-align: center;"><font size="4">Recording available at: <a href="">Youtube</a></font></p> -->
 
 The integration of artificial intelligence, wearable technologies, and robotics signifies a paradigm shift in healthcare, ushering in an era of personalized and pervasive digital health solutions. This pivotal intersection seamlessly melds real-time data acquisition, cutting-edge analytics, and precision-driven robotic interventions, together reshaping the very fabric of patient care. A spectrum of sensing modalities, from intricate brain-machine interfaces to dynamic muscle-machine interactions and advanced vision-based signals, offers a holistic understanding of the physiological and biomechanical intricacies inherent to the human body. These profound insights not only demystify cognitive processes and potential neurological anomalies but also set the stage for proactive interventions, particularly in the realms of rehabilitation/assistive, social, as well as surgical robotics. This workshop endeavors to dissect the multifaceted nature of this symbiotic integration, illuminating challenges, innovations, and the vast potential of a healthcare domain enriched by wearables and robotics. Our objective is to bridge the chasm between AI insights, wearable intelligence, and robotic precision, envisioning a healthcare future that’s seamlessly attuned to individual needs.
