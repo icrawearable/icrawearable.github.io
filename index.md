@@ -142,12 +142,12 @@ If you have any questions, please contact us at: wearable-intelligence@googlegro
         <figcaption><b><a href="https://ai.stanford.edu/~zharu/">Ruohan Zhang</a></b><br>Stanford University</figcaption>
         </figure>
     </div>
-    <div class="grid-item">
+    <!-- <div class="grid-item">
         <figure>
         <img src="assets/img/speakers/daniel_yamins.jpg" width="200" />
         <figcaption><b><a href="https://profiles.stanford.edu/daniel-yamins">Daniel Yamins</a></b><br>Stanford University</figcaption>
         </figure>
-    </div>
+    </div> -->
     <!-- <div class="grid-item">
         <figure>
         <img src="assets/img/speakers/guoyuan_wu.jpg" width="200" />
